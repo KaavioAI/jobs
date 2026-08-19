@@ -30,7 +30,7 @@ We were founded by a CEO with prior founder experience and deep expertise in tec
 We're still small enough that every hire shapes how we work and what we ship. If either of these sounds like you, we'd love to hear from you:
 
 * [Applied AI Engineer](applied-ai-engineer.md): work on research agents, RAG over large catalogs, structured extraction, and the eval work that makes AI trustworthy in production.
-* [Backend Engineer](backend-engineer.md): work on the data platform, durable workflows, APIs, and infrastructure that keep a data-intensive AI app fast, reliable, and affordable.
+* [Data Engineer / Backend Engineer](data-engineer.md): work on the data platform, durable workflows, APIs, and infrastructure that keep a data-intensive AI app fast, reliable, and affordable.
 
 ## Interview Process
 

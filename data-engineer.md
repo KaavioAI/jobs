@@ -1,4 +1,4 @@
-# Backend Engineer
+# Data Engineer / Backend Engineer
 
 *See the [README](README.md) for an overview of Kaavio, how we work, who we're looking for, our interview process, and how to apply.*
 
@@ -17,8 +17,8 @@ Kaavio is a data-intensive AI application. Behind every enriched catalog row is 
 ### Requirements
 
 * Strong software engineering fundamentals: you take a system from idea to deployed and stable.
-* Significant backend experience: production APIs, services, and data pipelines.
 * Experience with data engineering at scale: warehouses, ETL or ELT, batch and streaming patterns.
+* Significant backend experience: production APIs, services, and data pipelines.
 * Comfort with distributed systems primitives: queues, workers, idempotency, retries, eventual consistency.
 * Experience designing APIs that other engineers or customers rely on day to day.
 * Comfort with our stack (TypeScript, Postgres, BigQuery) or transferable experience in similar tools.
