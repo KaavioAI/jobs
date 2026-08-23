@@ -27,13 +27,12 @@ Kaavio is winning enterprise distributors on the strength of a genuinely hard pr
 
 ### Nice to have
 
-* **Entrepreneurial / startup experience** — you've founded or co-founded something, been an early employee, or otherwise operated where you had to build from scratch, wear many hats, and create the process rather than inherit it. This is a big plus for us.
+* **Entrepreneurial / startup experience** — you've founded or co-founded something, been an early employee, or been an early or first sales hire reporting directly to founders. You're comfortable building from scratch, wearing many hats, and creating the process rather than inheriting it (bonus if that included enterprise or international buyers). This is a big plus for us.
 * Sold into **distribution, manufacturing, industrial, or scientific/lab** markets, or another catalog-heavy B2B space.
 * Sold **data, AI, or developer/technical products** where the buyer needs to trust the output.
 * Experience selling **PIM, ecommerce, ERP, or product-data** software, or to the teams that own that data.
 * Ran a **land-and-expand** motion where initial deals were modest and grew on proven results.
 * Comfortable being **hands-on technical** — running your own demos, reading a catalog, poking at the product.
-* Experience as an **early or first sales hire** reporting directly to founders, including some international/enterprise buyers.
 
 ### Compensation and Benefits
 
