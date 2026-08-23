@@ -31,7 +31,7 @@ We're still small enough that every hire shapes how we work and what we ship. If
 
 * [Applied AI Engineer](applied-ai-engineer.md): work on research agents, RAG over large catalogs, structured extraction, and the eval work that makes AI trustworthy in production.
 * [Data Engineer / Backend Engineer](data-engineer.md): work on the data platform, durable workflows, APIs, and infrastructure that keep a data-intensive AI app fast, reliable, and affordable.
-* [Founding Account Executive](account-executive.md): own and expand a live enterprise pipeline, run our sales motion end-to-end, and build the go-to-market playbook as our first sales hire.
+* [Founding Account Executive](founding-ae.md): own and expand a live enterprise pipeline, run our sales motion end-to-end, and build the go-to-market playbook as our first sales hire.
 
 ## Interview Process
 
