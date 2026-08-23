@@ -27,18 +27,19 @@ We were founded by a CEO with prior founder experience and deep expertise in tec
 
 ## Open Roles
 
-We're still small enough that every hire shapes how we work and what we ship. If either of these sounds like you, we'd love to hear from you:
+We're still small enough that every hire shapes how we work and what we ship. If any of these sounds like you, we'd love to hear from you:
 
 * [Applied AI Engineer](applied-ai-engineer.md): work on research agents, RAG over large catalogs, structured extraction, and the eval work that makes AI trustworthy in production.
 * [Data Engineer / Backend Engineer](data-engineer.md): work on the data platform, durable workflows, APIs, and infrastructure that keep a data-intensive AI app fast, reliable, and affordable.
+* [Founding Account Executive](account-executive.md): own and expand a live enterprise pipeline, run our sales motion end-to-end, and build the go-to-market playbook as our first sales hire.
 
 ## Interview Process
 
 We aim to be efficient and transparent. Our process centers on spending a day working together in-person on actual projects. We'll fly to you or you to us and grab a co-working space for the day.
 
 1. **Intro call** – 30 min with a founder to understand your motivations and answer your questions.
-2. **Technical conversation** – meet an engineer to talk through a past project and a short systems/design exercise, no live coding.
-3. **Work with us** – join us for some real work and ship code.
+2. **Deep-dive conversation** – meet the team to talk through your past work and a short, role-relevant exercise (for engineers, a systems/design discussion — no live coding).
+3. **Work with us** – spend a day doing real work together.
 4. **Final conversation** – we'll answer any remaining questions.
 5. **Offer** – 🎉
 
